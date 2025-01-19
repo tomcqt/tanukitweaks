@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[361],{816:function(a,n){Intl.PluralRules&&"function"==typeof Intl.PluralRules.__addLocaleData&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","other"],ordinal:["other"]},fn:function(a,n){var l=!String(a).split(".")[1];return n?"other":1==a&&l?"one":"other"}},locale:"sw"})}}]);
+//# sourceMappingURL=i18n-pluralrules-polyfill-sw-269118c9cc9328f3fd46.chunk.js.map

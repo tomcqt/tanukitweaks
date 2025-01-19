@@ -1,0 +1,3 @@
+default: styles/elephant.scss
+contrast: styles/elephant-contrast.scss
+mastodon-light: styles/elephant-light.scss
